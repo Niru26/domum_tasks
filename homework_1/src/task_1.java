@@ -36,8 +36,7 @@ public class task_1 {
 
     public static double getData() {
         Scanner enteredData = new Scanner(System.in);
-        double dataForProcessing = enteredData.nextDouble();
-        return dataForProcessing;
+        return enteredData.nextDouble();
     }
 
     public static boolean checkSimpleNumber(int number) {
