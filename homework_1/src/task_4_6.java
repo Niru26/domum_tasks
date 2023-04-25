@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class task_4 {
+public class task_4_6 {
     public static void main(String[] args) {
 
         System.out.println("Enter size, random numbers range (minimum & maximum)");
