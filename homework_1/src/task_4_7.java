@@ -11,13 +11,14 @@ public class task_4_7 {
 
 
         List<Integer> initialList = makeList(listSize, minRandomValue, maxRandomValue);
-        System.out.println(initialList);
+        System.out.println("Initial list: " + initialList);
         List<Integer> generatedUniqueElementsList = generateUniqueList(listSize, initialList);
-        System.out.println(generatedUniqueElementsList);
+        System.out.println("Finished list of unique elements: " + generatedUniqueElementsList);
         printListElements(generatedUniqueElementsList);
     }
 
     private static void printListElements(List<Integer> generatedUniqueElementsList) {
+        System.out.println("Elements in separate strings:");
         for (int value:
                 generatedUniqueElementsList) {
             System.out.println(value);
