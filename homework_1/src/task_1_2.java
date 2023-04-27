@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
-public class task_2 {
+public class task_1_2 {
     public static void main(String[] args) {
         System.out.println("Calculator.");
         Scanner forCharOnly = new Scanner(System.in);
         boolean working = true;
         while (working) {
             System.out.println("Enter a and b:");
-            int a = (int) task_1.getData();
-            int b = (int) task_1.getData();
+            int a = (int) task_1_1.getData();
+            int b = (int) task_1_1.getData();
 
             System.out.println("Enter operation (+, -, \\, *):");
             char operation = forCharOnly.next().charAt(0);

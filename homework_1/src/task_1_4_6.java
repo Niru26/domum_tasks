@@ -1,13 +1,13 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class task_4_6 {
+public class task_1_4_6 {
     public static void main(String[] args) {
 
         System.out.println("Enter size, random numbers range (minimum & maximum)");
-        int arraySize = (int) task_1.getData();
-        int minRandomValue = (int) task_1.getData();
-        int maxRandomValue = (int) task_1.getData();
+        int arraySize = (int) task_1_1.getData();
+        int minRandomValue = (int) task_1_1.getData();
+        int maxRandomValue = (int) task_1_1.getData();
 
         int[] randomValuesArray = generatesArray(arraySize, minRandomValue, maxRandomValue);
         System.out.println(Arrays.toString(randomValuesArray));

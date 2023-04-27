@@ -2,12 +2,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class task_4_7 {
+public class task_1_4_7 {
     public static void main(String[] args) {
         System.out.println("Enter list size, random numbers range (minimum & maximum)");
-        int listSize = (int) task_1.getData();
-        int minRandomValue = (int) task_1.getData();
-        int maxRandomValue = (int) task_1.getData();
+        int listSize = (int) task_1_1.getData();
+        int minRandomValue = (int) task_1_1.getData();
+        int maxRandomValue = (int) task_1_1.getData();
 
 
         List<Integer> initialList = makeList(listSize, minRandomValue, maxRandomValue);
