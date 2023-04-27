@@ -7,10 +7,15 @@ public class task_2_2 {
         int numberOfProducts = enteredNumber();
         String[] recipeArray = createsStringsArray(numberOfStrings);
         String[] productsArray = createsStringsArray(numberOfProducts);
-
         String[] capitalizedArray = setCapitalLetters(productsArray);
-        System.out.println(Arrays.toString(capitalizedArray));
-        System.out.println(Arrays.toString(productsArray));
+
+        for (int i = 0; i < recipeArray.length; i++) {
+            for (String testedString : productsArray) {
+                recipeArray[i] = recipeArray[i].replace(testedString.split(" ")[0], testedString.split(" ")[2]);
+                System.out.println(recipeArray[i]);
+            }
+           System.out.println(recipeArray[i]);
+        }
     }
 
     private static String[] setCapitalLetters(String[] productsArray) {
