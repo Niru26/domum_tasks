@@ -1,18 +1,26 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class task_2_2 {
     public static void main(String[] args) {
         int numberOfStrings = enteredNumber();
-        int numberOfProducts = enteredNumber();
         String[] recipeArray = createsStringsArray(numberOfStrings);
+        int numberOfProducts = enteredNumber();
         String[] productsArray = createsStringsArray(numberOfProducts);
         String[] capitalizedArray = setCapitalLetters(productsArray);
 
+        replaceAndPrintResult(recipeArray, productsArray, capitalizedArray);
+
+    }
+
+    private static void replaceAndPrintResult(String[] recipeArray, String[] productsArray, String[] capitalizedArray) {
         for (int i = 0; i < recipeArray.length; i++) {
             for (String testedString : productsArray) {
-                recipeArray[i] = recipeArray[i].replace(testedString.split(" ")[0], testedString.split(" ")[2]);
-                System.out.println(recipeArray[i]);
+                recipeArray[i] = recipeArray[i].replace(testedString.split(" ")[0],
+                        testedString.split(" ")[2]);
+            }
+            for (String testedString : capitalizedArray) {
+                recipeArray[i] = recipeArray[i].replace(testedString.split(" ")[0],
+                        testedString.split(" ")[2]);
             }
            System.out.println(recipeArray[i]);
         }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e52d676-eecd-4191-893b-7eca2ba325bd" name="Changes" comment="Start executing homework 2">
+    <list default="true" id="7e52d676-eecd-4191-893b-7eca2ba325bd" name="Changes" comment="Start executing homework 2 continue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_2/src/task_2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/src/task_2_2.java" afterDir="false" />
     </list>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682618538574</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Start executing homework 2 continue">
+      <created>1682622721130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682622721130</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +222,7 @@
     <MESSAGE value="finished work on homework 1, task 4, subtask 7 (unique elements count)." />
     <MESSAGE value="add display strings to explain data in console in task 4_7" />
     <MESSAGE value="Start executing homework 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start executing homework 2" />
+    <MESSAGE value="Start executing homework 2 continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start executing homework 2 continue" />
   </component>
 </project>
