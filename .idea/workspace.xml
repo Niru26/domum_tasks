@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e52d676-eecd-4191-893b-7eca2ba325bd" name="Changes" comment="Finished work on task 2, homework 2">
-      <change afterPath="$PROJECT_DIR$/homework_2/src/task_2_1.java" afterDir="false" />
+    <list default="true" id="7e52d676-eecd-4191-893b-7eca2ba325bd" name="Changes" comment="Start work on task 1, homework 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_2/src/task_2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/src/task_2_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682658971285</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Start work on task 1, homework 2">
+      <created>1682660756796</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682660756796</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +238,7 @@
     <MESSAGE value="Start executing homework 2" />
     <MESSAGE value="Start executing homework 2 continue" />
     <MESSAGE value="Finished work on task 2, homework 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished work on task 2, homework 2" />
+    <MESSAGE value="Start work on task 1, homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start work on task 1, homework 2" />
   </component>
 </project>
