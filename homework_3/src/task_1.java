@@ -1,4 +1,7 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+import java.util.Random;
 
 public class task_1 {
     public static void main(String[] args) {
@@ -26,7 +29,6 @@ public class task_1 {
     public static void removeEvenNumbers(List<Integer> checkingList) {
         checkingList.removeIf(integer -> integer % 2 == 0);
     }
-
 }
     /*
         public static void removeEvenNumbers(List<Integer> checkingList) {
