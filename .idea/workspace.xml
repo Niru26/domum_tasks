@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e52d676-eecd-4191-893b-7eca2ba325bd" name="Changes" comment="Finished work at task 2, homework 3">
-      <change afterPath="$PROJECT_DIR$/homework_3/src/task_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e52d676-eecd-4191-893b-7eca2ba325bd" name="Changes" comment="Finished work at task 3, homework 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +59,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task_3">
+  <component name="RunManager" selected="Application.test_object">
     <configuration name="task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_1" />
       <module name="homework_3" />
@@ -84,13 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_2_1" />
-      <module name="homework_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_3" />
       <module name="homework_3" />
@@ -98,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test_object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_object" />
+      <module name="homework_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test_object" />
         <item itemvalue="Application.task_3" />
         <item itemvalue="Application.task_2" />
         <item itemvalue="Application.task_1" />
         <item itemvalue="Application.task_2_0" />
-        <item itemvalue="Application.task_2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683558991061</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Finished work at task 3, homework 3">
+      <created>1683606791501</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683606791501</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +275,7 @@
     <MESSAGE value="Start work at homework 3" />
     <MESSAGE value="Finished work at task 1, homework 3" />
     <MESSAGE value="Finished work at task 2, homework 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished work at task 2, homework 3" />
+    <MESSAGE value="Finished work at task 3, homework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished work at task 3, homework 3" />
   </component>
 </project>
