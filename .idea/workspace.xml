@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e52d676-eecd-4191-893b-7eca2ba325bd" name="Changes" comment="Finished work at task 3, homework 3">
+    <list default="true" id="7e52d676-eecd-4191-893b-7eca2ba325bd" name="Changes" comment="start work on homework 4">
+      <change afterPath="$PROJECT_DIR$/homework_4/src/task_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_3/src/test_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_3/src/test_object.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +33,6 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="29268089-5b0c-4a26-ab01-1be2a3f449d5" />
-  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -57,7 +54,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "onboarding.tips.debug.path": "D:/Geekbrains/20221106_Profession_Developer/20231704_java/small_test_projects/domum_tasks/homework_4/src/Main.java",
     "project.structure.last.edited": "Modules",
@@ -66,7 +63,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.task_1 (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="homework_4" />
@@ -74,9 +71,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="task_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_1" />
-      <module name="homework_3" />
+      <module name="homework_4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task_1 (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.task_3" />
         <item itemvalue="Application.test_object" />
         <item itemvalue="Application.task_2" />
-        <item itemvalue="Application.task_1" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683606791501</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="start work on homework 4">
+      <created>1683823340566</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683823340566</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,6 +287,7 @@
     <MESSAGE value="Finished work at task 1, homework 3" />
     <MESSAGE value="Finished work at task 2, homework 3" />
     <MESSAGE value="Finished work at task 3, homework 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished work at task 3, homework 3" />
+    <MESSAGE value="start work on homework 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="start work on homework 4" />
   </component>
 </project>
