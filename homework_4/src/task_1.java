@@ -2,7 +2,7 @@ import java.util.LinkedList;
 
 public class task_1 {
     public static void main(String[] args) {
-        LinkedList<Integer> myList = generateOddList(15);
+        LinkedList<Integer> myList = generateOddList(5);
         System.out.println(myList);
         reversingList(myList);
 
